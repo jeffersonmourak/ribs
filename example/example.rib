@@ -1,0 +1,7 @@
+<-- @include "./Component.jsx" as Component -->
+
+<Component>
+  <-- for item in list -->
+    <input/>
+  <-- end for -->
+</Component>
