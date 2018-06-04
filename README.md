@@ -55,3 +55,4 @@ it render the prop into the file
 - [x] Add support for FOR-STATEMENT
 - [x] Add support for get props
 - [ ] Add support for IF-Statement
+- [ ] Add support for webpack
